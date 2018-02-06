@@ -1,0 +1,63 @@
+/*
+*
+*@autor Matheus Mendes
+*@version 0.1
+*/
+
+/*-------------------------------------layout--------------------------------------*/
+
+body{
+	background: url(img/bg-code.jpg);
+}
+
+h3{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	letter-spacing: -0.0em;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-size: 35px;
+	letter-spacing: -0.0em;
+	padding-top: -20px;
+	font-family: "Times New Roman", Times, serif;
+}
+h4{
+	text-align: center;
+	color: white;
+}
+/*----------------------------------- Apresentação ---------------------------------*/
+
+.minha-imagem{
+	width: 250px;
+	height: 250px;
+	margin: 80px auto 20px auto;
+	display: block;
+}
+/*----------------------------------skills-------------------------------------------*/
+#habilidades{
+	background:#F0FFF0;
+	padding-top:20px;
+	padding-bottom: 20px; 
+}
+
+#color-habilidade{
+	color: black;
+	font-size: 40px;
+	padding-bottom: 20px;
+	font-family: Monospace;
+}
+/*---------------------------------rodape-----------------------------------------------*/
+
+#rodape{
+	color: #919496;
+	font-size:12px;
+	text-transform: uppercase;
+}
+.rede-social{
+	float:center;
+}
